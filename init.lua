@@ -996,6 +996,7 @@ require("lazy").setup({
 	require("kickstart.plugins.buffer-line"),
 	require("kickstart.plugins.float_term"),
 	require("kickstart.plugins.smear_cursor"),
+	require("kickstart.plugins.langmapper"),
 
 	-- NOTE: The import below can automatically add your own plugins, configuration, etc from `lua/custom/plugins/*.lua`
 	--    This is the easiest way to modularize your config.
